@@ -23,3 +23,4 @@ if (thirddigit == -1)
    Console.WriteLine("Третьей цифры нет");
 else 
    Console.WriteLine("Третья цифра: " + thirddigit);
+   
